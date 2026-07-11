@@ -1,4 +1,4 @@
-<p align="center">ronnie, maurice, or jeffrey. he/him ,, jeffthekiller fictionkin</p>
+<p align="center">jeffthekiller fictionkin ,, he/him</p>
 
 
 <p align="center">
