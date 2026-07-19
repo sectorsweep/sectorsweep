@@ -1,4 +1,4 @@
-<p align="center">⋆ hi ⠀ ⠀ ⠀ ⠀♱ ⠀ </p>
+<p align="center">⋆.♱ ⠀ </p>
 
 
 <p align="center">
