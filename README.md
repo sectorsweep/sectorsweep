@@ -38,7 +38,3 @@
 <p align="center">
 <td><img src="https://64.media.tumblr.com/8a8aff782e4c2d40d9ad826116237418/d0fba3eb924b4a7c-dd/s540x810/1eea7543be7b9730a09b84069ead3e2fa3ca019d.gifv" alt="Stamp 1" width="700" height="30"></td>
 </p>
-
-<p align="center">
-<td><img src="https://64.media.tumblr.com/8a8aff782e4c2d40d9ad826116237418/d0fba3eb924b4a7c-dd/s540x810/1eea7543be7b9730a09b84069ead3e2fa3ca019d.gifv" alt="Stamp 1" width="700" height="30"></td>
-</p>
