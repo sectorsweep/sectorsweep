@@ -23,15 +23,21 @@
 
 <p align="center">
     <tr>
-      <td><img src="https://64.media.tumblr.com/86e505c83cb86fbd42c019375a1de4f4/25a5383a26de0a28-09/s100x200/002379e695168be004bc1313d92751f956716d5f.pnj" alt="Stamp 1" width="100" height="40"></td>
+      <td><img src="https://64.media.tumblr.com/eeec5a9b1cde4ed93d440ba0cdcb62ca/13c53b5c390a1a55-6b/s100x200/9ab694924af62967d77394d66d774e92ef0a9ecf.gifv" alt="Stamp 1" width="100" height="40"></td>
 </p>
 
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[prnscc](https://prns.cc/gaewsh)⠀⠀[straw](https://deadbeatnightlife.straw.page/)⠀⠀ [ata](https://godheadsilo.atabook.org/)
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredericka+the+Great&pause=1000&color=88280DA1&width=435&lines=will+you+send+me+a+sign+%2C;to+show+me+that+youre+up+there%3F" alt="Typing SVG" /></a>
+</p>
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9zxx0pmsegu9seluh3kb8hgxg&cover_image=true&theme=natemoo-re&show_offline=true&background_color=3e2d2d&interchange=false&profanity=false&hide_remaster=false&bar_color=8e2929&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+<p align="center">
+<td><img src="https://64.media.tumblr.com/8a8aff782e4c2d40d9ad826116237418/d0fba3eb924b4a7c-dd/s540x810/1eea7543be7b9730a09b84069ead3e2fa3ca019d.gifv" alt="Stamp 1" width="700" height="30"></td>
+</p>
 
 <p align="center">
 <td><img src="https://64.media.tumblr.com/8a8aff782e4c2d40d9ad826116237418/d0fba3eb924b4a7c-dd/s540x810/1eea7543be7b9730a09b84069ead3e2fa3ca019d.gifv" alt="Stamp 1" width="700" height="30"></td>
